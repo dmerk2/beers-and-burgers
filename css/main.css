@@ -276,13 +276,13 @@ INTRO CONTAINER
     background-position: 70% 50%;
 }
  .featured.background_content{
-    background: url('../images/featured.jpg') no-repeat center center; 
+    background: url('../images/parallexBurger.jpg') no-repeat center center; 
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
 }
  .pricing.background_content{
-    background: url('../images/pricing.jpg') no-repeat center center; 
+    background: url('../images/featured.jpg') no-repeat center center; 
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -294,7 +294,7 @@ INTRO CONTAINER
     background-attachment: fixed;
 }
 .bread.background_content{
-    background: url('../images/burgers.jpg') no-repeat center center; 
+    background: url('../images/featured2.jpg') no-repeat center center; 
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
