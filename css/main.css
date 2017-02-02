@@ -233,6 +233,10 @@ INTRO CONTAINER
     color: white;
 }
 
+.black-bg {
+    background-color: black;
+}
+
 /* ========================
     IMAGE INTRO BANNER CONTENT
    =========================*/
