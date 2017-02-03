@@ -26,6 +26,8 @@ p.desc-text{
     font-size: 20px;
     line-height: 35px;
     text-align: justify;
+    font-family: 'Barrio', cursive;
+    font-weight: bolder;
 }
 .text-content.container {
     margin-top: 65px;
@@ -700,6 +702,9 @@ MEDIA QUERIES TABLET
         width: 280px;
         letter-spacing: 0.040em;
         border: 1px solid #2f2e2f;
+        font-family: 'Playball', cursive;
+        color: white;
+        background: black;
     }
     .picture_content {
         display: inline-block;
@@ -725,10 +730,11 @@ MEDIA QUERIES TABLET
         font-size: 4.5em;
         position: relative;
         top: 41%;
-        width: 100%;
-        color: white;
-        padding: 0;
-        border: 0;
+        width: auto;
+        color: white; 
+        background: black;
+        padding: .3em;
+        border: 2px solid black;
         display: inline-block;
     }
 
