@@ -75,6 +75,8 @@
 
 #portfolio .item {
 	opacity: 0;
+	display: none;
+	position: relative;
 	width: 30%;
 	vertical-align: top;
 	margin-bottom: 25px;

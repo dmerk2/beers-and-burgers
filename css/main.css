@@ -97,7 +97,7 @@ p.desc-text{
 li.item{
     position: relative; 
     width: 100%; /* for IE 6 */
-
+    margin-top: 0;
     background: rgba(211, 15, 34, 1);
 }
 
