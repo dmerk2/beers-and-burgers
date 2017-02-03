@@ -43,11 +43,28 @@
 
 /** portfolio list **/
 #portfolio {
-	display: block;
+  display: block;
   width: 100%;
   padding: 0 12px;
   margin-bottom: 0;
-	text-align: center;
+  text-align: center;
+}
+
+#portfolio li h2.white {
+	font-size: 1em;
+	color:black;
+}
+
+#portfolio li h2.black-bg {
+	font-size: .7em;
+	color:white;
+}
+
+#portfolio li h2{
+	display: block;
+	width: 100%;
+	min-height: 50%
+	margin-bottom: 0;
 }
 
 #portfolio .item {
