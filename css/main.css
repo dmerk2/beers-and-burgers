@@ -729,7 +729,6 @@ MEDIA QUERIES TABLET
     .background_content h1 {
         font-size: 4.5em;
         position: relative;
-        top: 41%;
         width: auto;
         color: white; 
         background: black;
